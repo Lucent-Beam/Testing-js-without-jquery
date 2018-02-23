@@ -1,0 +1,1 @@
+Testing javascript functions without Jquery
